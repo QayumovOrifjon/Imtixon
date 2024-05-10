@@ -5,6 +5,7 @@ export const productList = [
     price: "1.00",
     qnt: "5",
     id: "1",
+    count: "0",
   },
   {
     img: "https://pngimg.com/uploads/soup/small/soup_PNG80.png",
@@ -12,13 +13,15 @@ export const productList = [
     price: "2.00",
     qnt: "9",
     id: "2",
+    count: "0",
   },
   {
-    img: "https://veerji.ca/wp-content/uploads/2021/12/malai-kofta-indian-vegetarian-meatballs-curry-traditionally-served-hot-flatbread-tandoori-rumali-roti-naan-traditional-158606665-removebg-preview.png",
+    img: "https://mediavine-res.cloudinary.com/image/upload/s--3MFAevEx--/c_limit,f_auto,fl_lossy,h_1080,q_auto,w_1920/v1695938019/x0ztmihl7hmfz0hpyny3.jpg",
     name: "Beef dumpling in hot and sour soup",
     price: "214.00",
     qnt: "8",
     id: "3",
+    count: "0",
   },
   {
     img: "https://assets.bonappetit.com/photos/57acc781f1c801a1038bc76a/1:1/w_320,c_limit/twice-roasted-sweet-potatoes-with-hot-honey.jpg",
@@ -26,6 +29,7 @@ export const productList = [
     price: "200.00",
     qnt: "8",
     id: "4",
+    count: "0",
   },
   {
     img: "https://images.immediate.co.uk/production/volatile/sites/30/2022/09/Root-Veg-Hot-Pot-ce1d4b0.jpg?quality=90&resize=556,505",
@@ -33,6 +37,7 @@ export const productList = [
     price: "525.00",
     qnt: "1",
     id: "5",
+    count: "0",
   },
   {
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl1XaAAhn7gTcmS_-D8E_ka5YzQmmHZIpSC25tQ9zZM7UUYSNx1uT8N4SD1a4GikKa0_k&usqp=CAU",
@@ -40,55 +45,63 @@ export const productList = [
     price: "585.00",
     qnt: "9",
     id: "6",
+    count: "0",
   },
   {
-    img: "https://loremflickr.com/640/480/food",
+    img: "https://christieathome.com/wp-content/uploads/2023/10/Hot-and-Sour-Soup14.jpg",
     name: "Refined Frozen Tuna",
     price: "472.00",
     qnt: "5",
     id: "7",
+    count: "0",
   },
   {
-    img: "https://loremflickr.com/640/480/food",
+    img: "https://redhousespice.com/wp-content/uploads/2021/08/Chinese-hot-and-sour-soup-1-scaled.jpg",
     name: "Awesome Plastic Computer",
     price: "953.00",
     qnt: "2",
     id: "8",
+    count: "0",
   },
   {
-    img: "https://loremflickr.com/640/480/food",
+    img: "https://bigoven-res.cloudinary.com/image/upload/t_recipe-1280/cantonese-style-hot-and-sour-s-e7c747.jpg",
     name: "Recycled Rubber Chicken",
     price: "733.00",
     qnt: "3",
     id: "9",
+    count: "0",
   },
   {
-    img: "https://loremflickr.com/640/480/food",
+    img: "https://www.krumpli.co.uk/wp-content/uploads/2024/02/Chinese-Hot-and-Sour-Soup-6-Pin-150x150.jpg",
     name: "Small Cotton Computer",
     price: "344.00",
     qnt: "5",
     id: "10",
+    count: "0",
   },
   {
-    img: "https://loremflickr.com/640/480/food",
+    img: "https://redhousespice.com/wp-content/uploads/2021/08/Chinese-hot-and-sour-soup-1-scaled.jpg",
     name: "Intelligent Bronze Shirt",
     price: "688.00",
     qnt: "5",
     id: "11",
+    count: "0",
   },
   {
-    img: "https://loremflickr.com/640/480/food",
+    img: "https://lh3.googleusercontent.com/pw/ABLVV85PCTQYtSY5GhLNK_emdyVQmH1gexZPO0C7VwbcsYDEzR_sytzLUjQCYQj9J79iDTz_cNxvW0YyMdZREbaAYlgWdOWcLNDKcVcZxy-JnuAbEG8N0d3y_CijkXEgXrL1VpNjIJIqNJ0E4uLCffGCSoKg1w=w500-h500-no-gm?authuser=2",
     name: "Recycled Plastic Chips",
     price: "500.00",
     qnt: "8",
     id: "12",
+    count: "0",
   },
   {
-    img: "https://loremflickr.com/640/480/food",
+    img: "https://i.pinimg.com/736x/79/17/09/791709f3d85457c36ecc30d44c332e60.jpg ",
     name: "Incredible Steel Car",
     price: "149.00",
     qnt: "7",
     id: "13",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -96,6 +109,7 @@ export const productList = [
     price: "347.00",
     qnt: "9",
     id: "14",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -103,6 +117,7 @@ export const productList = [
     price: "785.00",
     qnt: "7",
     id: "15",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -110,6 +125,7 @@ export const productList = [
     price: "392.00",
     qnt: "7",
     id: "16",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -117,6 +133,7 @@ export const productList = [
     price: "117.00",
     qnt: "6",
     id: "17",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -124,6 +141,7 @@ export const productList = [
     price: "236.00",
     qnt: "8",
     id: "18",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -131,6 +149,7 @@ export const productList = [
     price: "34.00",
     qnt: "3",
     id: "19",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -138,6 +157,7 @@ export const productList = [
     price: "637.00",
     qnt: "3",
     id: "20",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -145,6 +165,7 @@ export const productList = [
     price: "87.00",
     qnt: "8",
     id: "21",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -152,6 +173,7 @@ export const productList = [
     price: "833.00",
     qnt: "2",
     id: "22",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -159,6 +181,7 @@ export const productList = [
     price: "567.00",
     qnt: "9",
     id: "23",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -166,6 +189,7 @@ export const productList = [
     price: "301.00",
     qnt: "5",
     id: "24",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -173,6 +197,7 @@ export const productList = [
     price: "950.00",
     qnt: "3",
     id: "25",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -180,6 +205,7 @@ export const productList = [
     price: "476.00",
     qnt: "2",
     id: "26",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -187,6 +213,7 @@ export const productList = [
     price: "35.00",
     qnt: "8",
     id: "27",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -194,6 +221,7 @@ export const productList = [
     price: "297.00",
     qnt: "2",
     id: "28",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -201,6 +229,7 @@ export const productList = [
     price: "99.00",
     qnt: "5",
     id: "29",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -208,6 +237,7 @@ export const productList = [
     price: "189.00",
     qnt: "4",
     id: "30",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -215,6 +245,7 @@ export const productList = [
     price: "38.00",
     qnt: "5",
     id: "31",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -222,6 +253,7 @@ export const productList = [
     price: "290.00",
     qnt: "2",
     id: "32",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -229,6 +261,7 @@ export const productList = [
     price: "954.00",
     qnt: "6",
     id: "33",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -236,6 +269,7 @@ export const productList = [
     price: "28.00",
     qnt: "8",
     id: "34",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -243,6 +277,7 @@ export const productList = [
     price: "723.00",
     qnt: "6",
     id: "35",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -250,6 +285,7 @@ export const productList = [
     price: "433.00",
     qnt: "4",
     id: "36",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -257,6 +293,7 @@ export const productList = [
     price: "68.00",
     qnt: "6",
     id: "37",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -264,6 +301,7 @@ export const productList = [
     price: "104.00",
     qnt: "4",
     id: "38",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -271,6 +309,7 @@ export const productList = [
     price: "969.00",
     qnt: "7",
     id: "39",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -278,6 +317,7 @@ export const productList = [
     price: "807.00",
     qnt: "6",
     id: "40",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -285,6 +325,7 @@ export const productList = [
     price: "337.00",
     qnt: "8",
     id: "41",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -292,6 +333,7 @@ export const productList = [
     price: "997.00",
     qnt: "5",
     id: "42",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -299,6 +341,7 @@ export const productList = [
     price: "291.00",
     qnt: "5",
     id: "43",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -306,6 +349,7 @@ export const productList = [
     price: "284.00",
     qnt: "7",
     id: "44",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -313,6 +357,7 @@ export const productList = [
     price: "64.00",
     qnt: "2",
     id: "45",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -320,6 +365,7 @@ export const productList = [
     price: "794.00",
     qnt: "9",
     id: "46",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -327,6 +373,7 @@ export const productList = [
     price: "861.00",
     qnt: "2",
     id: "47",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -334,6 +381,7 @@ export const productList = [
     price: "321.00",
     qnt: "9",
     id: "48",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -341,6 +389,7 @@ export const productList = [
     price: "266.00",
     qnt: "6",
     id: "49",
+    count: "0",
   },
   {
     img: "https://loremflickr.com/640/480/food",
@@ -348,5 +397,6 @@ export const productList = [
     price: "702.00",
     qnt: "8",
     id: "50",
+    count: "0",
   },
 ];

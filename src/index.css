@@ -2,10 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-*{
-scrollbar-width: none;
-      -ms-overflow-style: none;
-      scroll-behavior: smooth;
-
-
+* {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  scroll-behavior: smooth;
+  font-family: "Barlow", sans-serif;
 }
